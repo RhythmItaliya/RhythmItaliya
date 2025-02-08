@@ -1,15 +1,13 @@
 <br><br>
 <p align="center">
   <a href="">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&random=false&width=650&lines=Hello+There+%F0%9F%91%8B%F0%9F%8F%BB%2C+I'm+Rhythm+Italiya">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&random=false&width=650&lines=Hey!+There+%F0%9F%91%8B%F0%9F%8F%BB%2C+I'm+Rhythm+Italiya">
   </a>
 </p>
 <br>
 
 ## 💫&nbsp; About Me
 - 🚀&nbsp; Full Stack Developer || MERN Stack Developer
-- 💻&nbsp; Continuously learning and adapting to the latest industry trends and best practices in software development.
-- 💡&nbsp; Strong believer in clean code, modular architecture, and efficient problem-solving.
 - 📖&nbsp; Learn more about me on my **[Portfolio]** and **[Resume]**
 
 # 🌐&nbsp; Socials
@@ -27,8 +25,6 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Python](https://img.shields.io/badge/python-%233572A0.svg?style=for-the-badge&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
 ### Frameworks and Tools
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -38,9 +34,7 @@
 ![NodeJS](https://img.shields.io/badge/node_js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express_js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket_io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
-![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -54,9 +48,6 @@
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 
-<br>
-<hr>
-
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="profile/assets/SnakeGameDark.svg" />
@@ -67,9 +58,6 @@
 
 [LinkedIn]: https://www.linkedin.com/in/rhythmitaliya "Rhythm's LinkedIn"
 [Portfolio]: https://www.rhythmitaliya.com "Rhythm's Portfolio"
-[Resume]: https://drive.google.com/file/d/1veWVuGkjdIHEfOe7htOjeXQlRdpgJ0iW/view "Checkout Rhythm's Resume"
+[Resume]: https://drive.google.com/file/d/1idCGSIc7qDWxeJ_zXvODqucLORHKL5HE/view?usp=sharing "Checkout Rhythm's Resume"
 [Twitter]: https://x.com/rhythmitaliya "Rhythm's Twitter"
 [Facebook]: https://www.instagram.com/rhythm__22 "Rhythm's Facebook"
-
-<br>
-<hr>
