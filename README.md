@@ -48,6 +48,7 @@
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 
+<!--
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="profile/assets/SnakeGameDark.svg" />
@@ -55,6 +56,7 @@
     <img alt="Github Contribution Snake Game" src="profile/assets/SnakeGame.svg" />
   </picture>
 </p>
+-->
 
 [LinkedIn]: https://www.linkedin.com/in/rhythmitaliya "Rhythm's LinkedIn"
 [Portfolio]: https://www.rhythmitaliya.com "Rhythm's Portfolio"
